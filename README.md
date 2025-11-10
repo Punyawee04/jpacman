@@ -1,6 +1,9 @@
 # JPacman
 
 [![JPacman CI with Gradle](https://github.com/Punyawee04/jpacman/actions/workflows/myworkflow.yml/badge.svg)](https://github.com/Punyawee04/jpacman/actions/workflows/myworkflow.yml)
+![Coverage](.github/badges/jacoco.svg)
+![Branches](.github/badges/branches.svg)
+
 
 ## About
 
